@@ -25,11 +25,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
+# Large Data & Models (Excluded from Git)
+*.tar.gz
+*.pt
+out_crystallm_v1_from_scratch/
+mp_oqmd_nomad_cifs_semisymm_Z_props_2/
 
 # Installer logs
 pip-log.txt
